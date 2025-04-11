@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070536596024",
+    "project_id": "tila-e973a",
+    "storage_bucket": "tila-e973a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070536596024:android:95814cc9315c49761ca4cd",
+        "android_client_info": {
+          "package_name": "com.example.tila_app_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZei67kGZhC0qtDegagoJKSEH9JLaXUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
